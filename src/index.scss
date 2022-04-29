@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack:#222;
+$mainWhite:#fff;
+$mainGrey:#ececec;
+$mainGreen:#82b340;
+$transition:all .3s linear;
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: $mainWhite;
+    color: $mainBlack;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
